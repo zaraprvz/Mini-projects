@@ -1,0 +1,14 @@
+﻿
+
+
+# **Diabetes Prediction dataset **
+
+Elevated blood sugar levels are the cause of diabetes, a disease that can harm the heart, blood vessels, kidneys, eyes, nerves, and heart. Early diagnoses and proper care are crucial for preventing issues and improving the quality of life for people with diabetes.
+
+ The issue is that proper and early prediction approaches are particularly important, as the prevalence of diabetes is increasing globally. Though reliable, traditional diagnostic techniques can be intrusive, take a long time, and frequently don't provide a diagnosis until the disease has started. The need for a prediction algorithm that can use readily available data to identify people at high risk of acquiring diabetes is urgent. Having a diabetes prediction model is essential. 
+
+The aim of this project is to use machine learning techniques to construct a prediction model that can reliably estimate an individual's risk of getting diabetes based on demographic data and a collection of health markers. By assisting medical professionals in early detection and treatment, this model hopes to lessen the overall impact of diabetes.
+
+The diabetes_prediction_dataset.csv file from the diabetes prediction dataset is the source of the data that will be utilized in this project on Kaggle. The objective of this project is to enable early detection and treatment, hence preventing diabetes-related complications. Reducing the need for longer stays in hospitals and treatments, thereby reducing lower healthcare costs overall. Informing people about their health risks will enable them to lead better lives and take preventative measures.
+
+ 	 Summing up, a  vital requirement in the healthcare sector is addressed by the creation of a diabetes prediction model based on machine learning. This project is to create a low-cost, non-invasive, and precise tool for early diabetes detection by utilizing widely available health data. This will improve patient outcomes and lessen the worldwide burden of this chronic illness.
